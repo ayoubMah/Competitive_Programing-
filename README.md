@@ -54,7 +54,7 @@ Feel free to check each solution's folder to see the specific language used.
 ## How to Contribute
 Contributions are welcome! If you'd like to add your solutions or improve existing ones, please follow these steps:
 1. Fork this repository.
-2. Clone your forked repository: `git clone https://github.com/ayoubMah/Competitive_Programming.git`
+2. Clone your forked repository: `git clone git@github.com:ayoubMah/Competitive_Programing-.git`
 3. Create a new branch: `git checkout -b feature-branch`
 4. Make your changes and commit them: `git commit -m 'Add solution for problem XYZ'`
 5. Push to the branch: `git push origin feature-branch`
